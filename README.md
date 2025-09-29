@@ -7,6 +7,7 @@
 
   ## 💌 Contact
   mingk13@ewhain.net
+  
 
   ## 🖥️ Tech Stack
   ### Language
@@ -23,6 +24,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br/><br/>
+
   
   ## 🤔 Github Stats
   <div>
