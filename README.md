@@ -1,7 +1,12 @@
 <div align="center">
 
-  <!--Header-->
-  ![Blur](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorList=0,2&text=🏃‍♀️%20Runner%20·%20💻%20Developer&strokeWidth=1&section=footer&reversal=true&fontAlign=50&stroke=1A1A1A&fontSize=30&textBg=false)
+  <!-- Blur header (no text) -->
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=gradient&customColorList=0,2&text=%20&section=footer&reversal=true" alt="header blur"/>
+
+  <!-- Typing effect just below -->
+  <img src="https://readme-typing-svg.demolab.com/?lines=🏃‍♀️+Runner+·+💻+Developer;Node.js+%26+Marathon+Enthusiast;Clean+APIs,+Clean+Splits!&font=Fira%20Code&center=true&vCenter=true&width=600&height=60&duration=3800&pause=900" alt="Typing SVG"/>
+
+</div>
 
   <!--Body-->
 
