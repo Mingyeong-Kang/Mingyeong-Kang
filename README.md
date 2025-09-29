@@ -1,15 +1,16 @@
 <div>
   
   <!--Header-->
-  ![Blur](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hello&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false)
+  ![Blur](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=🏃‍♀️%20Runner%20·%20💻%20Developer&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false)
+
   
 </div>
 
 <div>
   <!--Body-->
   
-  ### 🖥️ Tech Stack
-  #### Language
+  ## 🖥️ Tech Stack
+  ### Language
   <!--Node.js-->
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/>
   <!--JavaScript-->
@@ -20,7 +21,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <br/>
   
-  #### ETC
+  ### ETC
   <!--Notion-->
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   <!--Discord-->
