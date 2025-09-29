@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![Blur](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=🏃‍♀️%20Runner%20·%20💻%20Developer&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=000000&fontSize=40&textBg=false)
+  ![Blur](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=🏃‍♀️%20Runner%20·%20💻%20Developer&strokeWidth=1&section=footer&reversal=true&fontAlign=50&stroke=7F1D1D&fontSize=40&textBg=false)
 
   
 </div>
