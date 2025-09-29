@@ -6,7 +6,7 @@
   <!--Body-->
 
   ## 💌 Contact
-  E-mail : mingk13@ewhain.net
+  mingk13@ewhain.net
 
   ## 🖥️ Tech Stack
   ### Language
