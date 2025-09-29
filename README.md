@@ -3,7 +3,7 @@
   ![Blur](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorList=0,2&text=🏃‍♀️%20Runner%20·%20💻%20Developer&strokeWidth=1&stroke=1A1A1A&fontColor=FFFFFF&section=footer&reversal=true&fontAlign=50&fontSize=30&textBg=false)
 
   <!-- Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?lines=I%27m+a+developer+student+who+runs+marathons+and+loves+trail+running.&font=Fira%20Code&center=true&vCenter=true&width=800&height=60&duration=3800&pause=1000&color=FFFFFF" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?lines=I%27m+a+developer+student+who+runs+marathons+and+loves+trail+running.&font=Fira%20Code&center=true&vCenter=true&width=800&height=60&duration=3800&pause=1000&color=000000" alt="Typing SVG"/>
 
   <!--Body-->
 
