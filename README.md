@@ -5,10 +5,6 @@
 
   <!--Body-->
 
-  ## 💌 Contact
-  mingk13@ewhain.net
-  
-
   ## 🖥️ Tech Stack
   ### Language
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/>
