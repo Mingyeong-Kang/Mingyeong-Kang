@@ -4,7 +4,10 @@
   ![Blur](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorList=0,2&text=🏃‍♀️%20Runner%20·%20💻%20Developer&strokeWidth=1&section=footer&reversal=true&fontAlign=50&stroke=1A1A1A&fontSize=40&textBg=false)
 
   <!--Body-->
-  
+
+  ## 💌 Contact
+  E-mail : mingk13@ewhain.net
+
   ## 🖥️ Tech Stack
   ### Language
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/>
