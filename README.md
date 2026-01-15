@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br/><br/>
 
-  
+<!--  
   ## 🤔 Github Stats
   <div align="center">
   <!-- GitHub Stats -->
@@ -36,7 +36,8 @@
   <img src="https://img.shields.io/github/stars/Mingyeong-Kang?style=social" height="20"/>
   <img src="https://img.shields.io/github/commit-activity/w/Mingyeong-Kang" height="20"/>
   </div>
-  
+-->
+
 </div>
 
 <!--
