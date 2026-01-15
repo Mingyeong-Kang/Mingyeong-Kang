@@ -27,15 +27,6 @@
 
 <!--  
   ## 🤔 Github Stats
-  <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mingyeong-Kang&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&hide=stars,prs,issues" height="180"/>
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mingyeong-Kang&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180"/>
-  <!-- Shields.io 배지 (안정적) -->
-  <img src="https://img.shields.io/github/stars/Mingyeong-Kang?style=social" height="20"/>
-  <img src="https://img.shields.io/github/commit-activity/w/Mingyeong-Kang" height="20"/>
-  </div>
 -->
 
 </div>
